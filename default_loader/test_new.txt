@@ -1,0 +1,5 @@
+parameter1 = value1
+parameter4 = value459
+parameter2 = {value2, value3, value4}
+parameter3 = {value5, value6, value7; value8, value9; value10, value11}
+parameter5 = {value2, value3920; 3829 2393, poop poop}
